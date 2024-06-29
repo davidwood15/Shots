@@ -1,4 +1,5 @@
 # Base configs
+base_url: "dwood.pics"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 
