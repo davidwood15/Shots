@@ -4,8 +4,8 @@ image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 
 # UI configs
-header:
- title: "Germany"
+header:dwood.pics
+ title: "A Big Hand For Germany"
 social_urls:
   instagram: "https://www.instagram.com/analoguetigers"
  
